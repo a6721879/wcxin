@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  FriendsListViewController.h
 //  Wcxin
 //
 //  Created by chengzi on 15/10/28.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface FriendsListViewController : UITableViewController
 
 @end
-
